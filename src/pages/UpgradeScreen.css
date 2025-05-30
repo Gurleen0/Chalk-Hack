@@ -1,0 +1,211 @@
+.arrowBackIcon {
+  	width: 24px;
+  	position: relative;
+  	max-height: 100%;
+}
+.instanceChild {
+  	width: 14px;
+  	position: relative;
+  	height: 14px;
+}
+.valeriVisuals {
+  	position: relative;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.groupParent {
+  	backdrop-filter: blur(6px);
+  	border-radius: 30px;
+  	background-color: rgba(200, 200, 200, 0.2);
+  	border: 0.8px solid #e6e6e6;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4px 6px;
+  	gap: 4px;
+}
+.arrowBackParent {
+  	width: 390px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	gap: 0px;
+}
+.frameChild {
+  	width: 29.8px;
+  	position: relative;
+  	height: 29.8px;
+}
+.portalPlus {
+  	position: relative;
+  	line-height: 40px;
+}
+.groupContainer {
+  	border-radius: 300px;
+  	background-color: #5222ff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 4px 16px;
+  	gap: 9px;
+}
+.perYear {
+  	margin: 0;
+}
+.accessOver3000Container {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	letter-spacing: 0.01em;
+  	line-height: 24px;
+  	font-weight: 500;
+}
+.frameGroup {
+  	width: 366px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+  	font-size: 32px;
+}
+.frameParent {
+  	align-self: stretch;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8) 82.69%);
+  	height: 680px;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 74px 20px 44px;
+  	box-sizing: border-box;
+  	gap: 0px;
+  	font-size: 14px;
+}
+.whyJoinPortal {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 32px;
+  	font-weight: 500;
+}
+.frameItem {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vectorIcon {
+  	width: 78px;
+  	position: relative;
+  	max-height: 100%;
+}
+.adFreeLearning {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 28px;
+  	font-weight: 500;
+}
+.noMoreDisturbances {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	letter-spacing: 0.5px;
+  	line-height: 24px;
+}
+.adFreeLearningParent {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.vectorParent {
+  	align-self: stretch;
+  	border-radius: 6px;
+  	background-color: #1c1c1c;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 12px 10px;
+  	gap: 20px;
+}
+.frameInner {
+  	width: 78px;
+  	position: relative;
+  	height: 74.4px;
+}
+.onlyTheBestForYouParent {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	gap: 4px;
+}
+.groupIcon {
+  	width: 79.2px;
+  	position: relative;
+  	max-height: 100%;
+}
+.frameContainer {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 8px;
+  	font-size: 22px;
+  	color: #fff;
+}
+.whyJoinPortalPlusParent {
+  	width: 389px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 16px;
+  	color: #efefef;
+}
+.getPortalPlus {
+  	position: relative;
+  	line-height: 32px;
+  	font-weight: 500;
+}
+.getPortalPlusWrapper {
+  	width: 389px;
+  	border-radius: 30px;
+  	background-color: #9711ff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 16px;
+  	box-sizing: border-box;
+  	cursor: pointer;
+}
+.upgradeScreen {
+  	width: 100%;
+  	position: relative;
+  	border-radius: 40px;
+  	background-color: #121212;
+  	overflow-y: auto;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 0px 40px;
+  	box-sizing: border-box;
+  	gap: 32px;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #fff;
+  	font-family: Roboto;
+}
+

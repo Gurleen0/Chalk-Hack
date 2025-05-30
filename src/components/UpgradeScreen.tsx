@@ -18,10 +18,17 @@ const UpgradeScreen = ({ onNext, onBack }: UpgradeScreenProps) => {
         />
         <div className="absolute top-6 right-6 text-white text-sm z-10">Value Yourself</div>
         
-        {/* Anime character placeholder - using CSS to create a silhouette effect */}
-        <div className="w-full h-full bg-gradient-to-b from-gray-600 to-gray-800 flex items-center justify-center">
-          <div className="text-8xl opacity-30">👤</div>
-        </div>
+        {/* Video Section */}
+        <video 
+          className="w-full h-full object-cover"
+          autoPlay 
+          loop 
+          muted 
+          playsInline
+        >
+          <source src="/Recording 2025-05-29 095945.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
       </div>
 
       {/* Portal Plus Badge */}

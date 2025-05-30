@@ -1,6 +1,6 @@
 
 import { ChevronLeft, Play, Crown, MessageCircle, Shield } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "./ui/button";
 
 interface UpgradeScreenProps {
   onNext: () => void;
